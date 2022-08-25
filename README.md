@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @living-journal
+- 👋 Hi, I’m Brenda Lenae Smith @living-journal
 - 👀 I’m interested in learning web development.
 - 🌱 I’m currently learning HTML5
 - 💞️ I’m looking to collaborate on ...
